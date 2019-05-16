@@ -1,0 +1,13 @@
+.img{
+    
+    width:100px;
+    height:100px;
+    margin:50px;
+    transition: transform;
+    transition-timing-function: ease-in-out;
+    
+}
+
+img:hover {
+    transform:scale(2);
+}
